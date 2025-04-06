@@ -26,6 +26,7 @@ return {
 			html = { "prettier" },
 			javascript = { "prettier" },
 			lua = { "stylua" },
+			markdown = { "prettier" },
 			python = { "black", "ruff" },
 			sql = { "sql-formatter", "sqlfmt" },
 			typescript = { "prettier ts-standard" },

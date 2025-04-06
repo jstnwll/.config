@@ -168,6 +168,7 @@ return {
 					},
 				},
 			},
+			marksman = {},
 			postgrestools = {},
 			pyright = {},
 			ruff = {},
