@@ -1,25 +1,3 @@
-vim.g.mapleader = " "
-vim.g.maplocalleader = " "
-vim.g.have_nerd_font = true
-
-vim.opt.number = true
-vim.opt.relativenumber = true
-vim.opt.mouse = "a"
-vim.opt.showmode = false
-vim.opt.clipboard = "unnamedplus"
-vim.opt.ignorecase = true
-vim.opt.smartcase = true
-vim.opt.signcolumn = "yes"
-vim.opt.updatetime = 250
-vim.opt.timeoutlen = 300
-vim.opt.splitright = true
-vim.opt.splitbelow = true
-vim.opt.cursorline = true
-vim.opt.scrolloff = 10
-vim.opt.wrap = true
-vim.opt.linebreak = true
-vim.opt.textwidth = 80
-vim.opt.wrapmargin = 2
-vim.opt.breakindent = true
-vim.opt.softtabstop = 4
-vim.opt.shiftwidth = 4
+-- Options are automatically loaded before lazy.nvim startup
+-- Default options that are always set: https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/config/options.lua
+-- Add any additional options here
