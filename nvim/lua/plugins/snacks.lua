@@ -52,19 +52,8 @@ return {
         { section = "startup" },
       },
     },
-    input = {
-      -- your input configuration comes here
-      -- or leave it empty to use the default settings
-      -- refer to the configuration section below
-    },
-
-    scroll = {
-      -- your scroll configuration comes here
-      -- or leave it empty to use the default settings
-      -- refer to the configuration section below
-    },
-    statuscolumn = {
-      -- your statuscolumn configuration comes here
+    image = {
+      -- your image configuration comes here
       -- or leave it empty to use the default settings
       -- refer to the configuration section below
     },
